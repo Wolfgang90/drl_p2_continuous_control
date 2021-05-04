@@ -29,7 +29,7 @@ For critic:
 * Number of nodes in output layer representing the potential actions: 4
 
 ## Plot of Rewards
-The environment was solved within **xxx episodes**.
+The environment was solved within **481 episodes**.
 As described in `README.md` the environment was considered to be solved, when the agent got
 * an average score of +30 (over 100 consecutive episodes, and over all agents). Specifically,
     * After each episode, we add up the rewards that each agent received (without discounting), to get a score for each agent. 
